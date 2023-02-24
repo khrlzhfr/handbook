@@ -339,6 +339,13 @@ Next to its native webclient interface, Jitsi Meet is also available as
 ## Asia <a id="asia"></a>
 
 
+### Singapore <a id="srilanka"></a>
+
+| URL    | Non-Google STUN/TURN  | On Amazon, Google, Cloudflare or Microsoft   | SSL Test  | hoster |
+|---|---|---|---|---|
+| jitsi.l10n.party |     | ❌ | [run SSL check!](https://www.ssllabs.com/ssltest/analyze.html?d=jitsi.l10n.party&latest) | Microsoft Azure |
+
+
 ### Sri Lanka <a id="srilanka"></a>
 
 | URL    | Non-Google STUN/TURN  | On Amazon, Google, Cloudflare or Microsoft   | SSL Test  | hoster |
